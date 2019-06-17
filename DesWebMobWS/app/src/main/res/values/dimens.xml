@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_cardview_top">8dp</dimen>
+    <dimen name="margin_cardview_sides">4dp</dimen>
+    <dimen name="image_side_length">50dp</dimen>
+</resources>
